@@ -5,7 +5,7 @@ compatibility_date = "2025-09-01"
 workers_dev = true
 
 [[kv_namespaces]]
-binding = "BOT_KV"
+binding = "1cc2322d8135481f85f2d8904c1e4781"
 id = "ENTER-KV-ID"
 
 [assets]
